@@ -34,7 +34,7 @@
 <br>
 
 <p style="max-width:700px;margin:0 auto 15px;font-size:15px;line-height:1.5">
-  <strong>HyperApps</strong> • Bots → Full Stack<br>
+  <strong>LithiumCommunity</strong> • Bots → Full Stack<br>
   Automação inteligente é minha paixão
 </p>
 
