@@ -1,1 +1,54 @@
-# MrLuckke2hats
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/215484606?v=4" width="160" alt="MrLuckke" style="border-radius:50%; border:5px solid #ff6bcb; box-shadow:0 0 15px rgba(255,107,203,.6);margin-bottom:15px">
+
+<h1>Olá, sou MrLuckke</h1>
+<p><strong>Full Stack • Bots • APIs • Web</strong></p>
+<p>5 anos de código em ação</p>
+
+<div style="margin:20px 0">
+  <a href="embreve" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/mrluckke" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=white2hats&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&v=2" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=white2hats&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex&v=2" height="180"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p style="max-width:700px;margin:0 auto 15px;font-size:15px;line-height:1.5">
+  <strong>HyperApps</strong> • Bots → Full Stack<br>
+  Automação inteligente é minha paixão
+</p>
+
+<details style="max-width:700px;margin:0 auto 20px">
+  <summary style="cursor:pointer;font-weight:bold">Objetivo</summary>
+  <p style="margin:10px 0 0">Transformar ideias em projetos reais com <strong>eficiência, qualidade e inovação</strong></p>
+</details>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,fastify,docker,nginx,html,css,csharp,cpp,git,github,discord,linux&perline=8&theme=dark"/>
+</div>
+
+<br>
+
+</div>
